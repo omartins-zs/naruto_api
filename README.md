@@ -15,6 +15,17 @@ python app.py
 ```
 
 
+### Comandos necessarios 
+
+-  python -m pip install SomePackage
+-  python -m pip install --upgrade SomePackage
+-  pip install -r requirements.txt
+-  pip3 install --upgrade tensorflow-gpu
+-  python -m pip install --user --upgrade pip
+-  pip3 install --upgrade tensorflow-gpu --user
+
+
+
 
 
 
